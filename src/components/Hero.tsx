@@ -41,8 +41,7 @@ export default function Hero() {
             Hi, I'm <span className="text-white">Yazna Sai Yarradoddi</span>,
             <br />
             <span className="text-zinc-500">Computer Science Student </span>
-            <span className="text-zinc-500">&amp; </span>
-            <span className="text-cyan-500">Software Engineer</span>
+
           </motion.h1>
 
           {/* Narrative Subtitle */}
