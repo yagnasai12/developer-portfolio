@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Developer Portfolio
 
-# Run and deploy your AI Studio app
+A sleek, responsive, and modern developer portfolio built to showcase technical projects, skills, and experience. This application is engineered with high performance and interactive UI components in mind.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/dc0e21f4-0ba0-4823-b3d6-7bbbce72ee83
+* **Dynamic Project Showcase:** Highlighting key engineering projects with live links and repository details.
+* **Modern UI/UX:** Built with clean layouts, responsive design, and intuitive navigation.
+* **Fast Performance:** Optimized client-side rendering for seamless page transitions.
 
-## Run Locally
+## 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+* **Frontend Framework:** React / Vite
+* **Language:** TypeScript
+* **Styling:** CSS / Modern UI Frameworks
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ⚡ Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Ensure you have **Node.js** (v18 or higher recommended) installed on your system.
+
+### Installation & Local Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/developer-portfolio.git](https://github.com/yagnasai12/developer-portfolio.git)
+   cd developer-portfolio

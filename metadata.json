@@ -1,6 +1,0 @@
-{
-  "name": "Developer Portfolio",
-  "description": "A sleek, minimal, and highly professional developer portfolio website featuring a dark theme, responsive interactive sections, and a live Cryptocurrency Analytics Dashboard with AI insights powered by Gemini.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
